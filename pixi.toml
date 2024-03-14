@@ -1,0 +1,16 @@
+[project]
+name = "from_scratch"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["JingDeng <111233725+jingdeng0314@users.noreply.github.com>"]
+channels = ["conda-forge", "bioconda"]
+platforms = ["win-64"]
+
+[tasks]
+
+[dependencies]
+jinja2-time = ">=0.2.0,<0.3"
+cookiecutter = ">=2.6.0,<2.7"
+dvc = ">=3.48.2"
+imod = "0.15.3.*"
+snakemake = ">=8.7.0,<8.8"
