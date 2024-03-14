@@ -1,7 +1,7 @@
 mod_scratch
 ==============================
 
-a short description
+Reproducible workflow to run a groundwater model for the Drentse Hondsrug
 
 Project Organization
 --------------------
