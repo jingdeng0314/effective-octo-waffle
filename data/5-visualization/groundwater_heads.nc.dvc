@@ -1,0 +1,5 @@
+outs:
+- md5: d3d56c6aca6bfa17df771271fe4b2bb1
+  size: 72814940
+  hash: md5
+  path: groundwater_heads.nc

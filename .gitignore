@@ -96,7 +96,7 @@ data/1-external/*.nc
 data/2-interim
 data/3-input
 data/4-output
-data/5-visualization
+data/5-visualization/*.nc
 
 # exclude figures
 reports/figures
