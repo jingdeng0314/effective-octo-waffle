@@ -91,9 +91,6 @@ target/
 # IPython NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude compiled binaries
-bin/
-
 # exclude data from source control by default
 data/1-external
 data/2-interim
