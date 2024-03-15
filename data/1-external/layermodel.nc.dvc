@@ -1,0 +1,5 @@
+outs:
+- md5: bc1614374f20dc5c8204fbb90598a51d
+  size: 3070694
+  hash: md5
+  path: layermodel.nc

@@ -1,0 +1,5 @@
+outs:
+- md5: 4df0b1762dadf810bf50a041204a773e
+  size: 171901
+  hash: md5
+  path: drainage.nc

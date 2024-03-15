@@ -1,0 +1,5 @@
+outs:
+- md5: fc683523855c08ddd4aec47603232bec
+  size: 39500224
+  hash: md5
+  path: meteorology.nc

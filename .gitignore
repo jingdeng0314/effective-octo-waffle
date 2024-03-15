@@ -92,7 +92,7 @@ target/
 .ipynb_checkpoints/
 
 # exclude data from source control by default
-data/1-external
+data/1-external/*.nc    
 data/2-interim
 data/3-input
 data/4-output
