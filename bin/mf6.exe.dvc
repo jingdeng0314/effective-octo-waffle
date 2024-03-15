@@ -1,0 +1,6 @@
+outs:
+- md5: 68ee4172873768963691d01d0e55ed80
+  size: 27584512
+  isexec: true
+  hash: md5
+  path: mf6.exe
